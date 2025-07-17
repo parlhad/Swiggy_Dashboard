@@ -7,6 +7,23 @@ Designed a Swiggy-themed Power BI dashboard to analyze sales, user activity, and
 
 ---
 
+## 🖼️ Dashboard Previews
+
+### 🔹 1.  Overview  
+![User Overview](Screenshots/overview.png)
+
+### 🔹 2. User Performance  
+![City Overview](Screenshots/city_overview.png)
+
+### 🔹 3. City Overview  
+![Restaurant Analysis](Screenshots/restaurant_insights.png)
+
+### 🔹 4. Restaurant Analysis  
+![KPI Dashboard](Screenshots/kpi_insights.png)
+
+### 🔹 5.Insight  
+![Slicers](Screenshots/filters_slicers.png)
+
 ## 📊 Project Overview
 
 This project focuses on analyzing online food delivery performance inspired by Swiggy. The dataset contains order-level transactional data across multiple cities, restaurants, and user behaviors.
