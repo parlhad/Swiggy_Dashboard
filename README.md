@@ -9,20 +9,20 @@ Designed a Swiggy-themed Power BI dashboard to analyze sales, user activity, and
 
 ## 🖼️ Dashboard Previews
 
-### 🔹 1.  Overview  
-![ Overview](Screenshot 2025-07-17 085555.png)
+### 🔹 1. Overview  
+![Overview](Screenshots/overview.png)
 
 ### 🔹 2. User Performance  
-![User Performance](Screenshot 2025-07-17 085618.png)
+![User Performance](Screenshots/user_performance.png)
 
 ### 🔹 3. City Overview  
-![Restaurant Analysis](Screenshot 2025-07-17 085704.png)
+![City Overview](Screenshots/city_overview.png)
 
 ### 🔹 4. Restaurant Analysis  
-![ Restaurant Analysis](Screenshot 2025-07-17 085723.png)
+![Restaurant Analysis](Screenshots/restaurant_analysis.png)
 
-### 🔹 5.Insight  
-![Insight](Screenshot 2025-07-17 085751.png)
+### 🔹 5. Insights  
+![Insights](Screenshots/insights.png)
 
 ## 📊 Project Overview
 
